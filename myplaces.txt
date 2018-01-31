@@ -1,0 +1,29 @@
+WhatABurger
+2810 Gaudapule St
+restaurant, fast food
+73.2224
+293.3444
+
+Resurrected Games
+2803 Gaudapule St
+gameshop, electronic store
+230.44
+223.33
+
+University of Texas, Austin
+28303 Gaudapule St
+school, university
+42.23
+235.2342
+
+Cabal Bob
+2833HemphillPark st
+restaurant, Mexian food
+23.23
+233.444
+
+SongLa
+2344 Gaudapule St
+restaurant, Taiwanese food
+344.223
+424.525
